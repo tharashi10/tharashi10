@@ -8,11 +8,11 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 --->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/tharashi10/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tharashi10&theme=react&show_icons=true&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharashi10&theme=react" />
+<a href="https://github.com/tharashi10/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharashi10&theme=react" />
 </a>
 
 <!---

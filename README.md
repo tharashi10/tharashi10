@@ -10,14 +10,16 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<a href=“https://github.com/tharashi10/github-readme-stats”>
-  <img align=“left” src=“https://github-readme-stats.vercel.app/api?username=tharashi10&theme=react&show_icons=true&count_private=true” />
+<a href="https://github.com/tharashi10/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tharashi10&theme=react&show_icons=true&count_private=true" />
 </a>
-<a href=“https://github.com/tharashi10/github-readme-stats”>
-  <img align=“left” src=“https://github-readme-stats.vercel.app/api/top-langs/?username=tharashi10&theme=react&hide=html,hcl” />
+<a href="https://github.com/tharashi10/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharashi10&theme=react&hide=html,hcl" />
 </a>
 
+<!---
 [![trophy](https://github-profile-trophy.vercel.app/?username=tharashi10&layout=compact&count_private=true&show_icons=true&theme=react)](https://github.com/tharashi10/github-profile-trophy)
+--->
 
 <!---
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=tharashi10&show_icons=true&count_private=true)
